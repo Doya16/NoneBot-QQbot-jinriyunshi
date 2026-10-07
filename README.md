@@ -1,3 +1,7 @@
+<!-- README language switch -->
+[![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-1677ff?style=for-the-badge)](README.md) [![English](https://img.shields.io/badge/English-555555?style=for-the-badge)](README.en.md)
+<!-- /README language switch -->
+
 # 📜 plugin_jinriyunshi ｜NoneBot 今日运势插件
 
 一个基于 NoneBot 2 的娱乐型插件，为用户提供每日一次的“今日人品/运势”签文。结合玄学风格的运势等级体系，支持自动缓存与每日清除机制，增强趣味性与可持续体验。
